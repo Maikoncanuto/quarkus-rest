@@ -1,0 +1,1 @@
+INSERT INTO TB_USER(id, name) VALUES (1, 'Maikon');
